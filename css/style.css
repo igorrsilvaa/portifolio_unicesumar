@@ -1,0 +1,21 @@
+@import url("fonts.css");
+@import url("font-awesome/css/font-awesome.min.css");
+@import url("micons/micons.css");
+
+html{
+    font-size: 10px;
+}
+
+html,
+body{
+    height: 100%;
+}
+
+body{
+    background: #151515;
+    font-family: "lora-regular", serif;
+    font-size: 1.7rem;
+    line-height: 3rem;
+    color: #6e6e6e;
+}
+
